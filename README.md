@@ -1,1 +1,1 @@
-# ZalandoApp
+# Zalando Application

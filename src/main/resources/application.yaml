@@ -1,0 +1,12 @@
+zalando:
+  sandBox:
+    platform:
+      auth:
+        oauth:
+          deployed:
+            authBaseURL: https://api-sandbox.merchants.zalando.com/auth
+      oauth:
+          path: /token
+      resource:
+          path: /me
+
